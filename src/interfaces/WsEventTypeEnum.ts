@@ -1,0 +1,5 @@
+export enum WsEventTypeEnum {
+  DATA = 'DATA',
+  AFTER_CONNECT = 'AFTER_CONNECT',
+  NETWORK_DELAY = 'NETWORK_DELAY',
+}
