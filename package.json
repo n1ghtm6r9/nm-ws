@@ -30,6 +30,7 @@
     "@nestjs/common": "^10.3.0",
     "@nmxjs/types": "^1.0.5",
     "@nmxjs/utils": "^1.0.4",
-    "big.js": "^6.2.1"
+    "big.js": "^6.2.1",
+    "ws": "^8.16.0"
   }
 }
