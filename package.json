@@ -1,6 +1,6 @@
 {
   "name": "@nmxjs/ws",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -28,8 +28,8 @@
   },
   "dependencies": {
     "@nestjs/common": "^10.3.0",
-    "@nmxjs/types": "^1.0.5",
-    "@nmxjs/utils": "^1.0.4",
+    "@nmxjs/types": "^1.0.6",
+    "@nmxjs/utils": "^1.0.5",
     "big.js": "^6.2.1",
     "ws": "^8.16.0"
   }
